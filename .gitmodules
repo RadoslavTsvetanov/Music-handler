@@ -1,0 +1,9 @@
+[submodule "packages/json"]
+	path = packages/json
+	url = https://github.com/DockerByTheGo/JSON-orm.git
+[submodule "app/backend"]
+	path = app/backend
+	url = https://github.com/RadoslavTsvetanov/music-handler-backend.git
+[submodule "app/frontend"]
+	path = app/frontend
+	url = https://github.com/RadoslavTsvetanov/music-handler-frontend.git
